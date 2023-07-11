@@ -1,6 +1,6 @@
 {
 	"name": "@bitworks/svelte-split-text-animation",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "TESTING! ",
 	"license": "MIT",
 	"author": {
@@ -42,5 +42,9 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"gsap": "^3.12.2",
+		"split-type": "^0.3.3"
+	}
 }

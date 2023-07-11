@@ -1,4 +1,4 @@
 // @ts-ignore
-import YouTube from "./svelte/YouTube.svelte";
+import SplitText from "./svelte/SplitText.svelte";
 
-export { YouTube };
+export { SplitText };
