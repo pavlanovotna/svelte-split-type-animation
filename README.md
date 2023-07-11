@@ -2,7 +2,6 @@
 
 Using GSAP and Split-type packages text is nimated when in viewport
 
-
 ```bash
 npm install @bitworks/svelte-split-text-animation
 
