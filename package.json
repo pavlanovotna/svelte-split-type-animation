@@ -1,7 +1,7 @@
 {
 	"name": "@bitworks/svelte-split-text-animation",
-	"version": "0.0.5",
-	"description": "TESTING! ",
+	"version": "1.0.7",
+	"description": "Animation of text split into characters, words or lines. Using split-type and GSAP",
 	"license": "MIT",
 	"author": {
 		"name": "Bitworks"
